@@ -5,6 +5,6 @@ x = 2
 y = 3
 
 def multi(a,b):
-    return x * y
+    return a * b
 
 print(multi(x,y))
